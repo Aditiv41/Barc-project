@@ -1,2 +1,3 @@
 # Barc-project
 Enhancing hydraulic jaw crusher capacity by modifying its design for larger ingots
+This study focuses on optimising the design of plates and rods for a hydraulic jaw crusher capable of handling larger ingots. The project involved calculating the forces exerted by the hydraulic cylinder and subsequently analysing the resulting forces and stresses on the rod and plate components. By comprehensively evaluating these factors, the aim was to design plates and rods that can withstand the applied forces and stresses effectively. This research contributes to enhancing the crusher's performance and durability, ensuring reliable operation in industrial applications where robust equipment is essential.
